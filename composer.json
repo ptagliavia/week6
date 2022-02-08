@@ -1,0 +1,14 @@
+{
+  "name": "ptagliavia/SDEV328/dating",
+  "description": "Week6 proj",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Pat Tagliavia",
+      "email": "tagliavia.pat@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
